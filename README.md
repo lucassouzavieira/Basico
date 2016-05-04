@@ -3,6 +3,6 @@ Conceitos básicos de computação gráfica - Configuração do ambiente Windows
 
 ## Bibliotecas Utilizadas
 
-GLEW ( http://glew.sourceforge.net/ )
-GLFW ( http://www.glfw.org/ )
-FreeGlut ( http://freeglut.sourceforge.net/ )
+GLEW ( http://glew.sourceforge.net/ )  
+GLFW ( http://www.glfw.org/ )  
+FreeGlut ( http://freeglut.sourceforge.net/ )  
