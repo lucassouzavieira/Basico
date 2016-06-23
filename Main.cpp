@@ -1,10 +1,8 @@
 // Teste das Bibliotecas
 // Lucas de Souza Vieira
-#include "Primitives\Definitions.h"
-#include <GLFW\glfw3.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <allegro5\allegro.h>
+#include <GLFW/glfw3.h>
+#include <cstdio>
+#include <cstdlib>
 
 int main(void)
 {
